@@ -5,7 +5,7 @@ def cook_omelette:
 	print('cook first side')
 	print('flip the egg')
 	print('cook the other side')
-	omelette = "a tasty omelette
+	omelette = "a tasty omelette"
 	return
 
 omelette1 = cook_omelette()

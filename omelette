@@ -1,0 +1,12 @@
+"""making breakfast"""
+def cook_omelette:
+	print('mix ingredients')
+	print('pour ingredients into fry pan')
+	print('cook first side')
+	print('flip the egg')
+	print('cook the other side')
+	omelette = "a tasty omelette
+	return
+
+omelette1 = cook_omelette()
+omelette2 = cook_omelette()

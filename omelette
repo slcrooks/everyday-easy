@@ -1,5 +1,5 @@
 """making breakfast"""
-def cook_omelette:
+def cook_omelette():
 	print('mix ingredients')
 	print('pour ingredients into fry pan')
 	print('cook first side')
